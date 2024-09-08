@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NewbieMojo
 
 - 💻I'll use this page to document my journey from a complete beginner to a malware developer.
-- 👀 I’m interested in malware development, cybersecurity, penetration testing, encryption and computers.
+- 👀 I’m interested in malware development, cybersecurity, penetration testing, encryption and purple team.
 - 🌱 Slow motion is better than no motion
 
 <!---
